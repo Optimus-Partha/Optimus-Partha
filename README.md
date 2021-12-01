@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Optimus-Partha
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning android using kotlin
+- 🌱 I’m currently learning android using kotlin & Java
 - 💞️ I’m looking to collaborate on mobile app project
 - 📫 reach me at parthasingha21@hotmail.com
 
